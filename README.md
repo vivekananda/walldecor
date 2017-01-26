@@ -1,7 +1,13 @@
 # wall decor
 
-A simple project to cut an image into multiple parts and print on a4 sheets
-Then you can print on a4 sheets and join them back to get a big image
+A simple project to cut an image into multiple parts
+
+## HowTo
+  - Select an image
+  - Split it into as many pieces as you want
+  - Print each piece on one A4 size sheet
+  - Join the pieces and you will get a big picture
+  - You can use this big picture as a stencel and draw it on your wall :)
 
 
 
