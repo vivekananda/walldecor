@@ -23,11 +23,9 @@ Then you can print on a4 sheets and join them back to get a big image
 
 # Output
 
-![mickymouse][mickymouse_0_0]![mickymouse][mickymouse_0_1]![mickymouse][mickymouse_0_2]
-
-![mickymouse][mickymouse_1_0]![mickymouse][mickymouse_1_1]![mickymouse][mickymouse_1_2]
-
-![mickymouse][mickymouse_2_0]![mickymouse][mickymouse_2_1]![mickymouse][mickymouse_2_2]
+![mickymouse][mickymouse_0_0]  ![mickymouse][mickymouse_0_1]  ![mickymouse][mickymouse_0_2]
+![mickymouse][mickymouse_1_0]  ![mickymouse][mickymouse_1_1]  ![mickymouse][mickymouse_1_2]
+![mickymouse][mickymouse_2_0]  ![mickymouse][mickymouse_2_1]  ![mickymouse][mickymouse_2_2]
 
 
 [mickymouse]: https://github.com/vivekananda/walldecor/raw/master/testdata/mickeymouse/mickeymouse.png "Mickey Mouse"
