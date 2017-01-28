@@ -36,7 +36,7 @@ class WallDecor:
                     box = [i * A4Width, j * A4Height, (i + 1) * A4Width, (j + 1) * A4Height]
                     region = new_img.crop(box)
                     new_file_name = "%s_%d_%d.%s" % (tokens[0],j, i,tokens[1])
-                    region.save(new_file_name)
+                    region.convert('RGB').save(new_file_name)
                     pass
 
         else:
