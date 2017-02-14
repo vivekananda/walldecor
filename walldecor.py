@@ -31,7 +31,7 @@ class WallDecor:
             # pdb.set_trace()
             # make sheets
             tokens = self.file_path.split(".")
-            for i in range(no_of_vertical_sheets):
+            for i in range(no_of_horizontal_sheets):
                 for j in range(no_of_vertical_sheets):
                     box = [i * A4Width, j * A4Height, (i + 1) * A4Width, (j + 1) * A4Height]
                     region = new_img.crop(box)
